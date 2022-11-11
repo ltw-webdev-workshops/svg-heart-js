@@ -8,7 +8,7 @@
 
 This is the starter code for a step-by-step lesson. Each step is described in detail here:
 
-### [**Follow the SVG ♥ JS” step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/workshops/the-dom-i-kno/svg-heart-js/)
+### [**Follow the SVG ♥ JS” step-by-step lesson ➔**](https://learntheweb.courses/workshops/the-dom-i-kno/svg-heart-js/)
 
 ---
 
